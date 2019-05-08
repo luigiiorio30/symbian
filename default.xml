@@ -14,7 +14,7 @@
 	<project path="interim/contrib/QtExamples" name="SymbianSource/oss.FCL.interim.contrib.QtExamples" remote="github" />
 	<project path="interim/contrib/WidgetExamples" name="SymbianSource/oss.FCL.interim.contrib.WidgetExamples" remote="github" />
 	<project path="interim/sf-test/platform/smoketest" name="SymbianSource/oss.FCL.interim.SFTest.SmokeTest" remote="github" />
-	<project path="interim/sftools/linux_build" name="SymbianSource/oss.FCL.interim.sftools.LinuxBuild" remote="github" />
+	<project path="interim/sftools/linux_build" name="conexport/symbian_linuxbuild" remote="github" />
 	<project path="sf/adapt/beagleboard" name="SymbianSource/oss.FCL.sf.adapt.beagleboard" remote="github" />
 	<project path="sf/adapt/codecs/aricent" name="SymbianSource/oss.FCL.sf.adapt.codecs.aricent" remote="github" />
 	<project path="sf/adapt/graphics/nokia" name="SymbianSource/oss.FCL.sf.adapt.NokiaGraphics" remote="github" />
