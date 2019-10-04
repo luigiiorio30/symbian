@@ -22,7 +22,7 @@
 	<project path="sf/adapt/mmaudio/nokia/ref" name="SymbianSource/oss.FCL.sf.adapt.NokiaMMAudioReference" remote="github" />
 	<project path="sf/adapt/naviengine/nec" name="SymbianSource/oss.FCL.sf.adapt.NECNaviengine" remote="github" />
 	<project path="sf/adapt/openmaxil/nokia" name="SymbianSource/oss.FCL.sf.adapt.NokiaOpenmaxil" remote="github" />
-	<project path="sf/adapt/qemu" name="SymbianSource/oss.FCL.sf.adapt.qemu" remote="github" />
+	<project path="sf/adapt/qemu" name="conexport/symbian_adapt_qemu" remote="github" />
 	<project path="sf/adapt/stubs" name="SymbianSource/oss.FCL.sf.adapt.stubs" remote="github" />
 	<project path="sf/adapt/wlan/ti/WL1271" name="SymbianSource/oss.FCL.sf.adapt.TIWLANWL1271" remote="github" />
 	<project path="sf/app/browserui" name="SymbianSource/oss.FCL.sf.app.browserui" remote="github" />
