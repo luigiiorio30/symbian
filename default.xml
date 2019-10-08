@@ -9,10 +9,8 @@
 	<project path="examples/app/NPR" name="SymbianSource/oss.FCL.examples.app.NPR" remote="github" />
 	<project path="examples/qt" name="SymbianSource/oss.FCL.interim.contrib.QtExamples" remote="github" />
 	<project path="examples/webruntime" name="SymbianSource/oss.FCL.examples.WebRT" remote="github" />
-	<project path="interim/QEMU" name="SymbianSource/oss.FCL.interim.QEMU" remote="github" />
 	<project path="interim/auxiliary_tools/AgileBrowser" name="SymbianSource/oss.FCL.interim.auxiliary_tools.AgileBrowser" remote="github" />
-	<project path="interim/contrib/QtExamples" name="SymbianSource/oss.FCL.interim.contrib.QtExamples" remote="github" />
-	<project path="interim/contrib/WidgetExamples" name="SymbianSource/oss.FCL.interim.contrib.WidgetExamples" remote="github" />
+	<project path="examples/WidgetExamples" name="SymbianSource/oss.FCL.interim.contrib.WidgetExamples" remote="github" />
 	<project path="interim/sf-test/platform/smoketest" name="SymbianSource/oss.FCL.interim.SFTest.SmokeTest" remote="github" />
 	<project path="interim/sftools/linux_build" name="conexport/symbian_linuxbuild" remote="github" />
 	<project path="sf/adapt/beagleboard" name="SymbianSource/oss.FCL.sf.adapt.beagleboard" remote="github" />
