@@ -219,5 +219,5 @@
 	<project path="sftools/fbf/projects/packages" name="SymbianSource/oss.FCL.sftools.fbf.projects.packages" remote="github" />
 	<project path="sftools/fbf/buildmanifest" name="SymbianSource/oss.FCL.sftools.fbf.buildmanifest" remote="github" />
 	<project path="sftools/fbf/bootstrap" name="SymbianSource/oss.FCL.sftools.fbf.bootstrap" remote="github" />
-	<project path="sftools/qemu" name="conexport/symbian_tools_qemu" remote="github" />
+	<project path="sftools/qemu" name="conexport/symbian_tools_qemu" remote="github" revision="0.9" />
 </manifest>
