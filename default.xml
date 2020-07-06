@@ -2,8 +2,8 @@
 <manifest>
 
 	<remote name="github" fetch="https://github.com/" />
-    <default revision="refs/heads/master" remote="github" sync-c="true" sync-j="4" />
-    
+        <default revision="refs/heads/master" remote="github" sync-c="true" sync-j="4" />
+
 	<project path="Public_API" name="SymbianSource/oss.API_REF.Public_API" remote="github" />
 	<project path="SHAI" name="SymbianSource/oss.API_REF.SHAI" remote="github" />
 	<project path="examples/app/NPR" name="SymbianSource/oss.FCL.examples.app.NPR" remote="github" />
