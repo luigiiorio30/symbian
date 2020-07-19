@@ -45,7 +45,7 @@ repo sync
 Depending on your connection and your hard drive speed, 
 this step could take a while, the complete Symbian^3 source code is approximatly 13GB.
 
-NOTE: SymbianSource repositories are being used for the portions of code not forked.
+NOTE: SymbianSource's repositories are being used for the portions of code not forked.
 
 ## References
 [Symbian developer wiki (archived)](https://akawolf.org/wiki/index.php/Main_Page)
