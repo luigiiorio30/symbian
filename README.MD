@@ -18,13 +18,12 @@ You can grab both RVCT 2 and RVCT 4 by login in with your ARM developer account 
 
 GCCE (GCC Embedded) is a fork of GCC made by CodeSourcery. The GCC base version is 4.3.2. The installers might not correctly work under modern systems.
 You can build this toolchain by following the steps in [this page](https://github.com/conexport/symbian_toolchain_buildscripts)
-Keep in mind that GCCE might be updated to a point where an updated version of GCC might be used.
 
 ## Acquiring an emulator
 The original Symbian emulator runs only on Windows and it's a closed source outdated software.
-A new emulator based on QEMU was created but it's working status is unknown.
+A new emulator based on QEMU, named Sybord, was created but it's working status is unknown.
 
-You can build Syborg (QEMU) emulator by visiting the [following page](https://github.com/conexport/symbian_tools_qemu)
+You can build or test the forked version of Sybord by visiting the [following page](https://github.com/conexport/symbian_tools_qemu).
 
 ## Building the code
 This repository contains the source code of Symbian^3 EPL release.
