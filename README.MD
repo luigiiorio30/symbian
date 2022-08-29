@@ -22,7 +22,7 @@ GCCE (GCC Embedded) is a fork of GCC made by CodeSourcery. The GCC base version 
 This repository contains the source code of Symbian^3 EPL release.
 You can clone the compilete source code by using the git-repo (the same tool used in Android)
 
-For more information, visit Google's [Using repo](https://gerrit.googlesource.com/git-repo/+/refs/heads/master/README.md) page.
+For more information, visit Google's [repo](https://gerrit.googlesource.com/git-repo/+/refs/heads/master/README.md) page.
 
 
 Create a new directory where the Symbian code will be cloned and type the following command to initialize it:
