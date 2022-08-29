@@ -29,7 +29,7 @@ You can build or test the forked version of Sybord by visiting the [following pa
 This repository contains the source code of Symbian^3 EPL release.
 You can clone the compilete source code by using the git-repo (the same tool used in Android)
 
-For more information, visit Google's [Using repo](http://source.android.com/source/using-repo.html) page.
+For more information, visit Google's [Using repo][http://source.android.com/source/using-repo.html](https://gerrit.googlesource.com/git-repo/+/refs/heads/master/README.md) page.
 
 
 Create a new directory where the Symbian code will be cloned and type the following command to initialize it:
