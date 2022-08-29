@@ -27,7 +27,7 @@ For more information, visit Google's [repo](https://gerrit.googlesource.com/git-
 
 Create a new directory where the Symbian code will be cloned and type the following command to initialize it:
 ```
-repo init -u https://github.com/conexport/symbian.git
+repo init -u https://github.com/conexport/symbian
 ```
 
 Next, sync the repository (it will download and extract all the data):
